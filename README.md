@@ -1,9 +1,3 @@
-# ELEN4020 - PROJECT
-**Group Members:**
-- Bohlale Mahlakoane - 1352926
-- Tshegofatso Kale - 1600916
-- Lungelo Chala - 1586897
-
 ## Global Rainfall Analysis with NETCDF Files
 This program is written in Python and uses the MPI4PY library to distribute work across multiple message passing interface nodes. This is done to generate box and whisker diagrams from data stored in NetCDF files.
 
