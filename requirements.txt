@@ -1,0 +1,17 @@
+cftime==1.4.1
+cloudpickle==1.6.0
+dask==2021.5.0
+fsspec==2021.5.0
+locket==0.2.1
+mpi4py==3.0.3
+netCDF4==1.5.6
+numpy==1.20.2
+pandas==1.2.4
+partd==1.2.0
+pymp-pypi==0.4.3
+python-dateutil==2.8.1
+pytz==2021.1
+PyYAML==5.4.1
+six==1.16.0
+toolz==0.11.1
+xarray==0.18.0
